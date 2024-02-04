@@ -26,6 +26,8 @@
 <div class="d-grid gap-2 col-6 mx-auto mt-3">
   <button type="button" class="btn btn-outline-info"><a href="searchRegistry.php"><h3>Search Registry</h3></a></button>
 </div>
+<button type="submit"  class="btn btn-danger d-grid gap-2 col-6 mx-auto mt-5"><a href="admin.php"><h3 style = "font-family:cursive">Back</h3></a></button>
 </div>
+
 </body>
 </html>
